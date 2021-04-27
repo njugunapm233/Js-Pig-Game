@@ -10,4 +10,4 @@ Game in Progress
 Game win
 ![image](https://user-images.githubusercontent.com/44283776/116277078-cdce2a80-a78d-11eb-930e-18029aed2c7d.png)
 
-
+*For a player to win the game the score should be >=100*
